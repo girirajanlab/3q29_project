@@ -1,7 +1,7 @@
 #This R script implements an edgeR pipeline (v.3.20.1), using the generalized linear model option,
 #to identify genes differentially expressed with knockdown of 3q29 homologs in Drosophila.
 
-#Quantified counts were generated from the Tophat2-HTSeq pipeline, and technical repllicates were
+#Quantified counts were generated from the Tophat2-HTSeq pipeline, and technical replicates were
 #merged to produce a final set of quantified counts for each biological replicate.
 #These data are available on NCBI GEO, accession number GSE128094.
 
