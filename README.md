@@ -5,14 +5,16 @@ This GitHub repository contains the scripts and pipelines used to generate bioin
 There are two directories in this repository: 
 
 1. Pipelines for identifying differentially-expressed genes from RNA-Sequencing data of 3q29 homologs. 
-  * This directory contains a batch script for aligning and quantifying read counts using [TopHat2](https://ccb.jhu.edu/software/tophat/index.shtml) and [HTSeq](https://htseq.readthedocs.io/en/release_0.11.1/), and an R pipeline for identifying differentially-expressed genes using [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html).  
+  * This directory contains a batch script for aligning and quantifying read counts using [TopHat2 v.2.1.1](https://ccb.jhu.edu/software/tophat/index.shtml) and [HTSeq v.0.6.1](https://htseq.readthedocs.io/en/release_0.11.1/), and an R pipeline for identifying differentially-expressed genes using [edgeR v.3.20.1](https://bioconductor.org/packages/release/bioc/html/edgeR.html).  
   * The raw RNA-Seq reads and quantified read counts for biological replicates are available at [NCBI GEO accession number GSE128094](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?&acc=GSE128094).
 
 2. Simulation of apoptosis gene enrichment among schizophrenia genes.
  * This directory contains an R script which simulates enrichment of apoptosis genes in schizophrenia gene sets, and two raw text files containing apoptosis and RefSeq gene sets used in the analysis.
 
+Bash pipeline scripts can be run in any Unix environment. R scripts can be run using any R version (scripts were generated using R v.3.4.2.)
+
 # Citation
-Singh MD, Jensen M, Lasser M, Huber E, Yusuff T, Pizzo L, Lifschutz B, Desai I, Kubina A, Yennawar S, Kim S, Iyer J, Rincon-Limas DE, Lowery LA, Girirajan S. *NCBP2*-mediated interactions contribute to neurodevelopmental defects of the schizophrenia-associated 3q29 deletion. 
+[Singh MD, Jensen M, Lasser M, Huber E, Yusuff T, Pizzo L, Lifschutz B, Desai I, Kubina A, Yennawar S, Kim S, Iyer J, Rincon-Limas DE, Lowery LA, Girirajan S. *NCBP2*-mediated apoptosis contributes to developmental defects of the schizophrenia-associated 3q29 deletion. **BioRxiv** 614750; 22 Apr. 2019.](https://www.biorxiv.org/content/10.1101/614750v1)
 
 # Copyright/License
 The code in this repository is free software: you can redistribute it and/or modify
