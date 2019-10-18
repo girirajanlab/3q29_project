@@ -1,0 +1,756 @@
+ADNP	Activity-dependent neuroprotector homeobox	20	"Rare Single Gene Mutation, Syndromic, Functional"	1	S	34
+ANK2	"Ankyrin 2, neuronal"	4	Rare Single Gene Mutation	1		13
+ARID1B	AT-rich interaction domain 1B	6	"Rare Single Gene Mutation, Syndromic"	1	S	38
+ASH1L	"Ash1 (absent, small, or homeotic)-like (Drosophila)"	1	"Rare Single Gene Mutation, Syndromic"	1		13
+ASXL3	Additional sex combs like 3 (Drosophila)	18	"Rare Single Gene Mutation, Syndromic"	1	S	20
+CHD2	Chromodomain helicase DNA binding protein 2	15	"Rare Single Gene Mutation, Syndromic"	1	S	31
+CHD8	chromodomain helicase DNA binding protein 8	14	"Rare Single Gene Mutation, Functional"	1	S	42
+CUL3	Cullin 3	2	"Rare Single Gene Mutation, Genetic Association"	1		17
+DSCAM	Down syndrome cell adhesion molecule	21	"Rare Single Gene Mutation, Genetic Association"	1		8
+DYRK1A	Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	21	"Rare Single Gene Mutation, Syndromic, Functional"	1	S	38
+GRIN2B	"glutamate receptor, inotropic, N-methyl D-apartate 2B"	12	"Rare Single Gene Mutation, Syndromic, Genetic Association"	1		48
+KATNAL2	Katanin p60 subunit A-like 2	18	Rare Single Gene Mutation	1		9
+KMT2A	Lysine (K)-specific methyltransferase 2A	11	"Rare Single Gene Mutation, Syndromic"	1	S	20
+KMT5B	lysine methyltransferase 5B	11	"Rare Single Gene Mutation, Syndromic"	1		10
+MYT1L	Myelin transcription factor 1-like	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	1		16
+NAA15	"N(alpha)-acetyltransferase 15, NatA auxiliary subunit"	4	"Rare Single Gene Mutation, Syndromic"	1	S	10
+POGZ	Pogo transposable element with ZNF domain	1	"Rare Single Gene Mutation, Syndromic"	1	S	25
+PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10	"Rare Single Gene Mutation, Syndromic, Functional"	1	S	55
+RELN	Reelin	7	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	1		50
+SCN2A	"sodium channel, voltage-gated, type II, alpha subunit"	2	"Rare Single Gene Mutation, Syndromic"	1		57
+SETD5	SET domain containing 5	3	"Rare Single Gene Mutation, Syndromic"	1	S	23
+SHANK3	SH3 and multiple ankyrin repeat domains 3	22	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	1	S	71
+SYNGAP1	synaptic Ras GTPase activating protein 1	6	"Rare Single Gene Mutation, Syndromic"	1	S	50
+TBR1	"T-box, brain, 1"	2	"Rare Single Gene Mutation, Genetic Association"	1		24
+TRIP12	Thyroid hormone receptor interactor 12	2	"Rare Single Gene Mutation, Syndromic"	1	S	15
+ANKRD11	ankyrin repeat domain 11	16	"Rare Single Gene Mutation, Syndromic"	2	S	41
+BAZ2B	bromodomain adjacent to zinc finger domain 2B	2	Rare Single Gene Mutation	2		3
+BCKDK	Branched chain ketoacid dehydrogenase kinase	16	Rare Single Gene Mutation	2		3
+BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	2	"Rare Single Gene Mutation, Syndromic"	2	S	16
+CACNA1D	"calcium channel, voltage-dependent, L type, alpha 1D"	3	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	2		18
+CACNA1H	"calcium channel, voltage-dependent, alpha 1H subunit"	16	Rare Single Gene Mutation	2		23
+CACNA2D3	"Calcium channel, voltage-dependent, alpha 2/delta subunit 3"	3	Rare Single Gene Mutation	2		6
+CEP41	"testis specific, 14"	7	"Rare Single Gene Mutation, Syndromic"	2		5
+CIC	capicua transcriptional repressor	19	"Rare Single Gene Mutation, Functional"	2	S	5
+CNOT3	CCR4-NOT transcription complex subunit 3	19	"Rare Single Gene Mutation, Syndromic"	2	S	5
+CNTN4	contactin 4	3	"Rare Single Gene Mutation, Syndromic, Genetic Association"	2		21
+CNTNAP2	contactin associated protein-like 2	7	"Rare Single Gene Mutation, Syndromic, Genetic Association"	2	S	64
+CTNND2	"Catenin (cadherin-associated protein), delta 2"	5	Rare Single Gene Mutation	2		5
+CUX1	cut like homeobox 1	7	"Rare Single Gene Mutation, Functional"	2		6
+DDX3X	"DEAD (Asp-Glu-Ala-Asp) box helicase 3, X-linked"	X	"Rare Single Gene Mutation, Syndromic"	2	S	15
+DEAF1	DEAF1 transcription factor	11	"Rare Single Gene Mutation, Syndromic"	2	S	16
+DIP2C	disco interacting protein 2 homolog C	10	Rare Single Gene Mutation	2		2
+ERBIN	erbb2 interacting protein	5	Rare Single Gene Mutation	2		5
+FOXP1	forkhead box P1	3	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	2	S	44
+GABRB3	"gamma-aminobutyric acid (GABA) A receptor, beta 3"	15	"Rare Single Gene Mutation, Genetic Association"	2		37
+GIGYF2	GRB10 interacting GYF protein 2	2	Rare Single Gene Mutation	2		7
+GRIA1	glutamate ionotropic receptor AMPA type subunit 1	5	Rare Single Gene Mutation	2		5
+GRIP1	glutamate receptor interacting protein 1	12	Rare Single Gene Mutation	2		12
+ILF2	Interleukin enhancer binding factor 2	1	Rare Single Gene Mutation	2		4
+INTS6	Integrator complex subunit 6	13	Rare Single Gene Mutation	2		4
+IRF2BPL	Interferon regulatory factor 2 binding protein-like	14	"Rare Single Gene Mutation, Syndromic"	2	S	5
+KAT2B	K(lysine) acetyltransferase 2B	3	Rare Single Gene Mutation	2		6
+KDM5B	Lysine (K)-specific demethylase 5B	1	"Rare Single Gene Mutation, Syndromic, Functional"	2		12
+KDM6A	lysine demethylase 6A	X	"Rare Single Gene Mutation, Syndromic"	2		6
+KMT2C	Lysine (K)-specific methyltransferase 2C	7	"Rare Single Gene Mutation, Syndromic"	2	S	15
+LEO1	"LEO1 homolog, Paf1/RNA polymerase II complex component"	15	Rare Single Gene Mutation	2		3
+MACROD2	MACRO domain containing 2	20	"Rare Single Gene Mutation, Genetic Association"	2		19
+MAGEL2	MAGE-like 2	15	"Rare Single Gene Mutation, Syndromic"	2	S	15
+MBOAT7	membrane bound O-acyltransferase domain containing 7	19	"Rare Single Gene Mutation, Syndromic"	2	S	3
+MECP2	Methyl CpG binding protein 2	X	"Rare Single Gene Mutation, Syndromic, Functional"	2	S	75
+MED13	mediator complex subunit 13	17	"Rare Single Gene Mutation, Syndromic"	2	S	4
+MED13L	Mediator complex subunit 13-like	12	"Rare Single Gene Mutation, Syndromic"	2	S	27
+MET	met proto-oncogene (hepatocyte growth factor receptor)	7	"Rare Single Gene Mutation, Genetic Association, Functional"	2		37
+MSNP1AS	"Moesinpseudogene 1, antisense"	5	"Genetic Association, Functional"	2		12
+NCKAP1	NCK-associated protein 1	2	Rare Single Gene Mutation	2		7
+NCOR1	nuclear receptor corepressor 1	17	"Rare Single Gene Mutation, Functional"	2		6
+NLGN3	neuroligin 3	X	Rare Single Gene Mutation	2		32
+NRXN1	neurexin 1	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	2		78
+PHF3	PHD finger protein 3	6	Rare Single Gene Mutation	2		2
+PTCHD1	patched domain containing 1	X	"Rare Single Gene Mutation, Genetic Association"	2		11
+RANBP17	RAN binding protein 17	5	Rare Single Gene Mutation	2		5
+RIMS1	Regulating synaptic membrane exocytosis 1	6	"Rare Single Gene Mutation, Genetic Association"	2		6
+SCN9A	sodium voltage-gated channel alpha subunit 9	2	Rare Single Gene Mutation	2		5
+SET	SETnuclear proto-oncogene	9	Rare Single Gene Mutation	2		4
+SHANK2	SH3 and multiple ankyrin repeat domains 2	11	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	2		32
+SLC6A1	"Solute carrier family 6 (neurotransmitter transporter), member 1"	3	"Rare Single Gene Mutation, Syndromic, Genetic Association"	2	S	20
+SMARCC2	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2"	12	"Rare Single Gene Mutation, Syndromic, Functional"	2	S	10
+SPAST	Spastin	2	Rare Single Gene Mutation	2		9
+SRCAP	Snf2 related CREBBP activator protein	16	Rare Single Gene Mutation	2		5
+SRSF11	serine and arginine rich splicing factor 11	1	Rare Single Gene Mutation	2		4
+TAOK2	TAO kinase 2	16	"Rare Single Gene Mutation, Functional"	2		5
+TBL1XR1	transducin beta like 1 X-linked receptor 1	3	"Rare Single Gene Mutation, Syndromic"	2		18
+TCF20	Transcription factor 20 (AR1)	22	"Rare Single Gene Mutation, Syndromic"	2	S	10
+TNRC6B	Trinucleotide repeat containing 6B	22	Rare Single Gene Mutation	2		7
+TRIO	Trio Rho guanine nucleotide exchange factor	5	"Rare Single Gene Mutation, Syndromic"	2		22
+UBN2	ubinuclein 2	7	Rare Single Gene Mutation	2		3
+UPF3B	"UPF3B, regulator of nonsense mediated mRNA decay"	X	"Rare Single Gene Mutation, Syndromic"	2	S	12
+USP15	ubiquitin specific peptidase 15	12	Rare Single Gene Mutation	2		3
+USP7	Ubiquitin specific peptidase 7 (herpes virus-associated)	16	"Rare Single Gene Mutation, Syndromic"	2	S	7
+WAC	WW domain containing adaptor with coiled-coil	10	"Rare Single Gene Mutation, Syndromic"	2	S	17
+WDFY3	WD repeat and FYVE domain containing 3	4	"Rare Single Gene Mutation, Functional"	2		14
+ACHE	Acetylcholinesterase (Yt blood group)	7	Rare Single Gene Mutation	3		4
+ADA	adenosine deaminase	20	"Rare Single Gene Mutation, Genetic Association"	3		6
+ADCY3	adenylate cyclase 3	2	Rare Single Gene Mutation	3		2
+AGAP2	"ArfGAP with GTPase domain, ankyrin repeat and PH domain 2"	12	Rare Single Gene Mutation	3		4
+AGO1	"argonaute 1, RISC catalytic component"	1	Rare Single Gene Mutation	3		7
+AGO4	argonaute RISC catalytic component 4	1	Rare Single Gene Mutation	3		2
+AHDC1	AT-hook DNA binding motif containing 1	1	"Rare Single Gene Mutation, Syndromic"	3	S	11
+AKAP9	A kinase (PRKA) anchor protein 9	7	Rare Single Gene Mutation	3		4
+AMPD1	Adenosine monophosphate deaminase 1	1	"Rare Single Gene Mutation, Genetic Association"	3		3
+AMT	Aminomethyltransferase	3	Rare Single Gene Mutation	3		1
+ANK3	ankyrin 3	10	"Rare Single Gene Mutation, Genetic Association"	3		25
+ANXA1	Annexin A1	9	Rare Single Gene Mutation	3		2
+APBB1	amyloid beta precursor protein binding family B member 1	11	"Rare Single Gene Mutation, Functional"	3		3
+APH1A	APH1A gamma secretase subunit	1	Rare Single Gene Mutation	3		2
+ASAP2	"ArfGAP with SH3 domain, ankyrin repeat and PH domain 2"	2	Rare Single Gene Mutation	3		3
+ASPM	abnormal spindle microtubule assembly	1	"Rare Single Gene Mutation, Syndromic"	3		6
+ASTN2	astrotactin 2	9	"Rare Single Gene Mutation, Genetic Association"	3		13
+ATP10A	Probable phospholipid-transporting ATPase VA	15	"Rare Single Gene Mutation, Genetic Association, Functional"	3		8
+ATP2B2	"ATPase, Ca++ transporting, plasma membrane 2"	3	"Rare Single Gene Mutation, Genetic Association"	3		9
+AUTS2	autism susceptibility candidate 2	7	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		34
+AVPR1A	arginine vasopressin receptor 1A	12	"Rare Single Gene Mutation, Genetic Association"	3		21
+BTAF1	"RNA polymerase II, B-TFIID transcription factor-associated, 170kDa (Mot1 homolog, S. cerevisiae)"	10	Rare Single Gene Mutation	3		5
+CACNA1E	calcium voltage-gated channel subunit alpha1 E	1	Rare Single Gene Mutation	3		9
+CACNB2	"Calcium channel, voltage-dependent, beta 2 subunit"	10	"Rare Single Gene Mutation, Genetic Association"	3		4
+CAPRIN1	Cell cycle associated protein 1	11	"Rare Single Gene Mutation, Functional"	3		3
+CASZ1	castor zinc finger 1	1	Rare Single Gene Mutation	3		4
+CC2D1A	Coiled-coil and C2 domain containing 1A	19	"Rare Single Gene Mutation, Functional"	3		11
+CCNG1	cyclin G1	5	Rare Single Gene Mutation	3		1
+CCT4	"Chaperonin containing TCP1, subunit 4 (delta)"	2	Rare Single Gene Mutation	3		3
+CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	14	Rare Single Gene Mutation	3		7
+CDH13	cadherin 13	16	Rare Single Gene Mutation	3		2
+CELF4	"CUGBP, Elav-like family member 4"	18	"Rare Single Gene Mutation, Functional"	3		9
+CEP135	centrosomal protein 135	4	"Rare Single Gene Mutation, Syndromic"	3		6
+CGNL1	Cingulin-like 1	15	Rare Single Gene Mutation	3		3
+CHMP1A	charged multivesicular body protein 1A	16	"Rare Single Gene Mutation, Syndromic"	3		5
+CHRNA7	"cholinergic receptor, nicotinic, alpha 7"	15	Rare Single Gene Mutation	3		13
+CIB2	Calcium and integrin binding family member 2	15	Rare Single Gene Mutation	3		1
+CLASP1	cytoplasmic linker associated protein 1	2	Rare Single Gene Mutation	3		3
+CNKSR2	connector enhancer of kinase suppressor of Ras 2	X	Syndromic	3	S	4
+CNR1	cannabinoid receptor 1 (brain)	6	"Rare Single Gene Mutation, Genetic Association"	3		7
+CNTN5	Contactin 5	11	"Rare Single Gene Mutation, Genetic Association"	3		9
+CNTN6	Contactin 6	3	"Rare Single Gene Mutation, Genetic Association"	3		13
+CNTNAP4	Contactin associated protein-like 4	16	"Rare Single Gene Mutation, Functional"	3		11
+CPEB4	cytoplasmic polyadenylation element binding protein 4	5	Functional	3		1
+CTCF	CCCTC-binding factor	16	"Rare Single Gene Mutation, Syndromic, Functional"	3		13
+CTNNB1	catenin beta 1	3	"Rare Single Gene Mutation, Syndromic"	3		20
+CTTNBP2	cortactin binding protein 2	7	"Rare Single Gene Mutation, Syndromic"	3		7
+CUL7	Cullin 7	6	Rare Single Gene Mutation	3		4
+CYFIP1	cytoplasmic FMR1 interacting protein 1	15	"Rare Single Gene Mutation, Genetic Association, Functional"	3		16
+DAPP1	Dual adaptor of phosphotyrosine and 3-phosphoinositides	4	Rare Single Gene Mutation	3		1
+DENR	density-regulated protein	12	Rare Single Gene Mutation	3		3
+DIP2A	DIP2 disco-interacting protein 2 homolog A (Drosophila)	21	Rare Single Gene Mutation	3		5
+DISC1	disrupted in schizophrenia 1	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		34
+DLGAP1	DLG associated protein 1	18	"Rare Single Gene Mutation, Functional"	3		7
+DLX3	distal-less homeobox 3	17	Rare Single Gene Mutation	3		2
+DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3	S	12
+DOCK8	dedicator of cytokinesis 8	9	Rare Single Gene Mutation	3		8
+DPP10	Dipeptidyl-peptidase 10	2	Rare Single Gene Mutation	3		11
+DPYSL2	dihydropyrimidinase like 2	8	"Rare Single Gene Mutation, Genetic Association"	3		12
+DYNC1H1	dynein cytoplasmic 1 heavy chain 1	14	"Rare Single Gene Mutation, Syndromic"	3		13
+EFR3A	EFR3 homolog A (S. cerevisiae)	8	Rare Single Gene Mutation	3		5
+EHMT1	Euchromatic histone-lysine N-methyltransferase 1	9	"Rare Single Gene Mutation, Syndromic"	3	S	21
+ELAVL3	ELAV like neuron-specific RNA binding protein 3	19	Rare Single Gene Mutation	3		3
+ELP4	Elongator acetyltransferase complex subunit 4	11	"Rare Single Gene Mutation, Genetic Association"	3		6
+EMSY	"EMSY, BRCA2 interacting transcriptional repressor"	11	"Rare Single Gene Mutation, Functional"	3		3
+EP400	E1A binding protein p400	12	Rare Single Gene Mutation	3		6
+ETFB	"Electron-transfer-flavoprotein, beta polypeptide"	19	Rare Single Gene Mutation	3		3
+FAM92B	"Family with sequence similarity 92, member B"	16	Rare Single Gene Mutation	3		3
+FBN1	Fibrillin 1	15	Rare Single Gene Mutation	3		10
+FOXP2	forkhead box P2	7	"Rare Single Gene Mutation, Genetic Association"	3		41
+GABRG3	gamma-aminobutyric acid type A receptor gamma3 subunit	15	Genetic Association	3		9
+GALNT8	polypeptide N-acetylgalactosaminyltransferase 8	12	Rare Single Gene Mutation	3		1
+GGNBP2	gametogenetin binding protein 2	17	Rare Single Gene Mutation	3		2
+GIGYF1	GRB10 interacting GYF protein 1	7	Rare Single Gene Mutation	3		5
+GPC4	glypican 4	X	Rare Single Gene Mutation	3		2
+GPHN	Gephyrin	14	Rare Single Gene Mutation	3		8
+GRID1	"Glutamate receptor, ionotropic, delta 1"	10	"Rare Single Gene Mutation, Genetic Association"	3		6
+GRIK2	glutamate ionotropic receptor kainate type subunit 2	6	"Rare Single Gene Mutation, Genetic Association"	3		18
+GRIK5	"Glutamate receptor, ionotropic, kainate 5"	19	Rare Single Gene Mutation	3		8
+GRIN1	"Glutamate receptor, ionotropic, N-methyl D-aspartate 1"	9	"Rare Single Gene Mutation, Functional"	3		15
+GRIN2A	"glutamate receptor, ionotropic, N-methyl D-aspartate 2A"	16	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		38
+HECTD4	HECT domain E3 ubiquitin protein ligase 4	12	Rare Single Gene Mutation	3		4
+HECW2	"HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2"	2	"Rare Single Gene Mutation, Syndromic"	3		7
+HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	1	"Rare Single Gene Mutation, Genetic Association"	3		5
+HMGN1	high mobility group nucleosome binding domain 1	21	Genetic Association	3		1
+ICA1	islet cell autoantigen 1	7	Rare Single Gene Mutation	3		8
+ITGB3	"integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)"	17	"Rare Single Gene Mutation, Genetic Association"	3		14
+JARID2	jumonji and AT-rich interaction domain containing 2	6	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		11
+KAT6A	K(lysine) acetyltransferase 6A	8	"Rare Single Gene Mutation, Syndromic"	3	S	12
+KCNJ10	potassium voltage-gated channel subfamily J member 10	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		11
+KCNQ2	potassium voltage-gated channel subfamily Q member 2	20	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		20
+KCNQ3	potassium voltage-gated channel subfamily Q member 3	8	"Rare Single Gene Mutation, Genetic Association"	3		7
+KCNS3	potassium voltage-gated channel modifier subfamily S member 3	2	Rare Single Gene Mutation	3		3
+KDM4C	lysine demethylase 4C	9	Rare Single Gene Mutation	3		1
+KDM5C	lysine demethylase 5C	X	"Rare Single Gene Mutation, Syndromic, Functional"	3		22
+KDM6B	Lysine (K)-specific demethylase 6B	17	Rare Single Gene Mutation	3		8
+KIAA1586	KIAA1586	6	Rare Single Gene Mutation	3		3
+KIF14	kinesin family member 14	1	"Rare Single Gene Mutation, Syndromic"	3		4
+KIRREL3	Kin of IRRE like 3 (Drosophila)	11	Rare Single Gene Mutation	3		15
+KMT2E	Lysine (K)-specific methyltransferase 2E	7	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3		7
+LAMB1	"laminin, beta 1"	7	"Rare Single Gene Mutation, Genetic Association"	3		6
+LMX1B	LIM homeobox transcription factor 1 beta	9	Genetic Association	3		1
+LZTR1	Leucine-zipper-like transcription regulator 1	22	"Rare Single Gene Mutation, Syndromic"	3		9
+MBD5	Methyl-CpG binding domain protein 5	2	"Rare Single Gene Mutation, Syndromic"	3	S	31
+MFRP	Membrane frizzled-related protein	11	Rare Single Gene Mutation	3		6
+MIR137	microRNA 137	1	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	3		10
+MTOR	Mechanistic target of rapamycin (serine/threonine kinase)	1	"Rare Single Gene Mutation, Syndromic, Functional"	3	S	15
+MYH10	myosin heavy chain 10	17	Rare Single Gene Mutation	3		5
+MYO5A	myosin VA	15	"Rare Single Gene Mutation, Genetic Association"	3		4
+MYO9B	Myosin IXB	19	Rare Single Gene Mutation	3		4
+NAV2	neuron navigator 2	11	Rare Single Gene Mutation	3		9
+NEXMIF	neurite extension and migration factor	X	"Rare Single Gene Mutation, Syndromic"	3		19
+NFE2L3	"nuclear factor, erythroid 2 like 3"	7	Rare Single Gene Mutation	3		3
+NINL	Ninein-like	20	Rare Single Gene Mutation	3		4
+NLGN1	neuroligin 1	3	"Rare Single Gene Mutation, Genetic Association"	3		17
+NLGN4X	"neuroligin 4, X-linked"	X	"Rare Single Gene Mutation, Genetic Association"	3		30
+NR3C2	"Nuclear receptor subfamily 3, group C, member 2"	4	Rare Single Gene Mutation	3		4
+NRXN3	neurexin 3	14	"Rare Single Gene Mutation, Genetic Association"	3		17
+NUAK1	"NUAK family, SNF1-like kinase, 1"	12	"Rare Single Gene Mutation, Functional"	3		6
+NUDCD2	NudC domain containing 2	5	Rare Single Gene Mutation	3		2
+OPHN1	oligophrenin 1	X	"Rare Single Gene Mutation, Syndromic"	3		14
+OR52M1	"Olfactory receptor, family 52, subfamily M, member 1"	11	Rare Single Gene Mutation	3		2
+OTUD7A	OTU deubiquitinase 7A	15	"Rare Single Gene Mutation, Functional"	3		4
+OXTR	oxytocin receptor	3	"Rare Single Gene Mutation, Genetic Association, Functional"	3		44
+P2RX5	"Purinergic receptor P2X, ligand gated ion channel, 5"	17	Rare Single Gene Mutation	3		2
+P4HA2	"Prolyl 4-hydroxylase, alpha polypeptide II"	5	Rare Single Gene Mutation	3		4
+PAH	Phenylalanine hydroxylase	12	"Rare Single Gene Mutation, Syndromic"	3		3
+PAK2	p21 (RAC1) activated kinase 2	3	Rare Single Gene Mutation	3		4
+PARD3B	Par-3 partitioning defective 3 homolog B (C. elegans)	2	"Rare Single Gene Mutation, Genetic Association"	3		7
+PAX5	Paired box 5	9	Rare Single Gene Mutation	3		5
+PER2	period circadian clock 2	2	Rare Single Gene Mutation	3		2
+PHB	prohibitin	17	Genetic Association	3		1
+PHF2	PHD finger protein 2	9	Rare Single Gene Mutation	3		5
+PHIP	pleckstrin homology domain interacting protein	6	"Rare Single Gene Mutation, Syndromic"	3	S	10
+PHRF1	PHD and ring finger domains 1	11	Rare Single Gene Mutation	3		4
+PLCB1	"phospholipase C, beta 1 (phosphoinositide-specific)"	20	Rare Single Gene Mutation	3		7
+PLXNA4	Plexin A4	7	"Rare Single Gene Mutation, Functional"	3		4
+PLXNB1	plexin B1	3	Rare Single Gene Mutation	3		3
+PON1	paraoxonase 1	7	Genetic Association	3		5
+PREX1	"Phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1"	20	Genetic Association	3		1
+PRICKLE1	Prickle homolog 1 (Drosophila)	12	"Rare Single Gene Mutation, Syndromic, Functional"	3		4
+PRICKLE2	prickle planar cell polarity protein 2	3	"Rare Single Gene Mutation, Functional"	3		3
+PRKCB	protein kinase C beta	16	"Rare Single Gene Mutation, Genetic Association"	3		6
+PRKN	parkin RBR E3 ubiquitin protein ligase	6	"Rare Single Gene Mutation, Genetic Association"	3		15
+PRODH	Proline dehydrogenase (oxidase) 1	22	"Syndromic, Genetic Association"	3	S	6
+PTK7	Protein tyrosine kinase 7 (inactive)	6	Rare Single Gene Mutation	3		4
+PYHIN1	"Pyrin and HIN domain family, member 1"	1	Rare Single Gene Mutation	3		4
+RAB2A	"RAB2A, member RAS oncogene family"	8	Rare Single Gene Mutation	3		8
+RAB43	"RAB43, member RAS oncogene family"	3	Rare Single Gene Mutation	3		2
+RAI1	retinoic acid induced 1	17	"Rare Single Gene Mutation, Syndromic"	3	S	21
+RALGAPB	Ral GTPase activating protein non-catalytic beta subunit	20	Rare Single Gene Mutation	3		3
+RBFOX1	"RNA binding protein, fox-1 homolog (C. elegans) 1"	16	"Rare Single Gene Mutation, Genetic Association"	3		33
+RBM27	RNA binding motif protein 27	5	Rare Single Gene Mutation	3		3
+ROBO2	roundabout guidance receptor 2	3	"Rare Single Gene Mutation, Genetic Association, Functional"	3		8
+SAE1	SUMO1 activating enzyme subunit 1	19	Rare Single Gene Mutation	3		3
+SBF1	SET binding factor 1	22	Rare Single Gene Mutation	3		8
+SCN1A	"sodium channel, voltage-gated, type I, alpha subunit"	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3	S	53
+SCN8A	"sodium channel, voltage gated, type VIII, alpha subunit"	12	"Rare Single Gene Mutation, Syndromic"	3		33
+SEMA5A	"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A"	5	"Rare Single Gene Mutation, Genetic Association, Functional"	3		16
+SETBP1	SET binding protein 1	18	"Rare Single Gene Mutation, Syndromic"	3		12
+SETD2	SET domain containing 2	3	"Rare Single Gene Mutation, Syndromic"	3		10
+SHANK1	SH3 and multiple ankyrin repeat domains 1	19	"Rare Single Gene Mutation, Genetic Association"	3		6
+SHOX	short stature homeobox	"X,Y"	Rare Single Gene Mutation	3		2
+SLC12A5	"Solute carrier family 12 (potassium/chloride transporter), member 5"	20	Rare Single Gene Mutation	3		5
+SLC35B1	solute carrier family 35 member B1	17	Genetic Association	3		1
+SLC38A10	"solute carrier family 38, member 10"	17	Rare Single Gene Mutation	3		1
+SLC6A3	"Solute carrier family 6 (neurotransmitter transporter), member 3"	5	"Rare Single Gene Mutation, Genetic Association, Functional"	3		15
+SLC7A3	"Solute carrier family 7 (cationic amino acid transporter, y+ system), member 3"	X	Rare Single Gene Mutation	3		2
+SLC7A5	solute carrier family 7 member 5	16	Functional	3		2
+SLITRK5	SLIT and NTRK like family member 5	13	"Rare Single Gene Mutation, Functional"	3		9
+SMAD4	SMAD family member 4	18	Rare Single Gene Mutation	3		4
+SMARCA4	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4"	19	"Rare Single Gene Mutation, Syndromic"	3		6
+SNX5	sorting nexin 5	20	Rare Single Gene Mutation	3		3
+SPARCL1	SPARC like 1	4	"Rare Single Gene Mutation, Functional"	3		3
+SPEN	spenfamily transcriptional repressor	1	Rare Single Gene Mutation	3		6
+ST8SIA2	"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2"	15	"Rare Single Gene Mutation, Genetic Association"	3		8
+STXBP1	Syntaxin binding protein 1	9	"Rare Single Gene Mutation, Syndromic, Functional"	3	S	36
+STXBP5	Syntaxin binding protein 5 (tomosyn)	6	Rare Single Gene Mutation	3		6
+TAF6	TATA-box binding protein associated factor 6	7	Rare Single Gene Mutation	3		2
+TANC2	"etratricopeptide repeat, ankyrin repeat and coiled-coil containing 2"	17	Rare Single Gene Mutation	3		6
+TBC1D31	"TBC1 domain family, member 31"	8	Rare Single Gene Mutation	3		3
+TCF4	Transcription factor 4	18	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3	S	42
+TCF7L2	"Transcription factor 7-like 2 (T-cell specific, HMG-box)"	10	Rare Single Gene Mutation	3		3
+TERF2	Telomeric repeat binding factor 2	16	Rare Single Gene Mutation	3		3
+TET2	Tet methylcytosine dioxygenase 2	4	Rare Single Gene Mutation	3		4
+TMLHE	"trimethyllysine hydroxylase, epsilon"	X	"Rare Single Gene Mutation, Genetic Association"	3		5
+TRAPPC9	trafficking protein particle complex 9	8	"Rare Single Gene Mutation, Syndromic"	3		13
+TRPC6	"Transient receptor potential cation channel, subfamily C, member 6"	11	Rare Single Gene Mutation	3		2
+TRPM1	transient receptor potential cation channel subfamily M member 1	15	Rare Single Gene Mutation	3		3
+TSC2	tuberous sclerosis 2	16	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3	S	29
+UBE3A	ubiquitin protein ligase E3A	15	"Rare Single Gene Mutation, Syndromic, Genetic Association"	3	S	27
+UBE3C	Ubiquitin protein ligase E3C	7	Rare Single Gene Mutation	3		4
+UBR5	ubiquitin protein ligase E3 component n-recognin 5	8	Rare Single Gene Mutation	3		6
+UNC79	"unc-79 homolog, NALCN channel complex subunit"	14	Rare Single Gene Mutation	3		3
+USP45	Ubiquitin specific peptidase 45	6	Rare Single Gene Mutation	3		2
+VIL1	Villin 1	2	Rare Single Gene Mutation	3		1
+WDFY4	WDFY family member 4	10	Rare Single Gene Mutation	3		5
+WWOX	WW domain containing oxidoreductase	16	"Rare Single Gene Mutation, Syndromic"	3		8
+ZBTB20	Zinc finger and BTB domain containing 20	3	"Rare Single Gene Mutation, Syndromic"	3	S	21
+ZC3H4	zinc finger CCCH-type containing 4	19	Rare Single Gene Mutation	3		3
+ZMYND11	"Zinc finger, MYND-type containing 11"	10	"Rare Single Gene Mutation, Syndromic"	3		10
+ZNF804A	Zinc finger protein 804A	2	"Rare Single Gene Mutation, Genetic Association"	3		13
+ABAT	4-aminobutyrate aminotransferase	16	Genetic Association	4		4
+ABCA10	"ATP-binding cassette, sub-family A (ABC1), member 10"	17	Rare Single Gene Mutation	4		1
+ABCA13	ATP binding cassette subfamily A member 13	7	"Rare Single Gene Mutation, Functional"	4		5
+ABCA7	"ATP-binding cassette, sub-family A (ABC1), member 7"	19	Rare Single Gene Mutation	4		2
+ACE	angiotensin I converting enzyme	17	"Rare Single Gene Mutation, Genetic Association"	4		2
+ACTN4	actinin alpha 4	19	Rare Single Gene Mutation	4		4
+ADCY5	Adenylate cyclase 5	3	Rare Single Gene Mutation	4		6
+ADK	adenosine kinase	10	Rare Single Gene Mutation	4		2
+ADORA2A	adenosine A2a receptor	22	Genetic Association	4		7
+ADORA3	Adenosine A3 receptor	1	"Rare Single Gene Mutation, Functional"	4		2
+ADRB2	"adrenergic, beta-2-, receptor, surface"	5	Genetic Association	4		10
+AFF2	"AF4/FMR2 family, member 2"	X	"Rare Single Gene Mutation, Syndromic"	4		15
+AGAP1	"ArfGAP with GTPase domain, ankyrin repeat and PH domain 1"	2	Rare Single Gene Mutation	4		8
+AGBL4	ATP/GTP binding protein-like 4	1	Rare Single Gene Mutation	4		3
+AGMO	alkylglycerol monooxygenase	7	"Rare Single Gene Mutation, Genetic Association"	4		5
+AGO3	argonaute RISC catalytic component 3	1	Rare Single Gene Mutation	4		4
+AGTR2	"angiotensin II receptor, type 2"	X	Rare Single Gene Mutation	4		3
+ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	12	Rare Single Gene Mutation	4		1
+APBA2	"amyloid beta (A4) precursor protein-binding, family A, member 2"	15	Rare Single Gene Mutation	4		7
+AR	androgen receptor	X	Genetic Association	4		6
+ARHGAP11B	Rho GTPase activating protein 11B	15	Rare Single Gene Mutation	4		2
+ARHGAP32	Rho GTPase activating protein 32	11	"Rare Single Gene Mutation, Functional"	4		7
+ARHGAP5	Rho GTPase activating protein 5	14	Rare Single Gene Mutation	4		4
+ARHGEF10	Rho guanine nucleotide exchange factor 10	8	"Rare Single Gene Mutation, Functional"	4		3
+ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	X	"Rare Single Gene Mutation, Syndromic"	4	S	9
+ARNT2	aryl-hydrocarbon receptor nuclear translocator 2	15	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		11
+ASMT	acetylserotonin O-methyltransferase	"X,Y"	"Rare Single Gene Mutation, Genetic Association"	4		9
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1	1	"Rare Single Gene Mutation, Syndromic"	4	S	3
+ATP1A3	ATPase Na+/K+ transporting subunit alpha 3	19	"Rare Single Gene Mutation, Syndromic, Functional"	4	S	13
+ATP6V0A2	ATPase H+ transporting V0 subunit a2	12	Rare Single Gene Mutation	4		2
+ATRX	alpha thalassemia/mental retardation syndrome X-linked	X	"Rare Single Gene Mutation, Syndromic"	4		17
+AVPR1B	arginine vasopressin receptor 1B	1	"Genetic Association, Functional"	4		8
+AZGP1	"alpha-2-glycoprotein 1, zinc-binding"	7	Rare Single Gene Mutation	4		2
+BBS4	Bardet-Biedl syndrome 4	15	"Rare Single Gene Mutation, Syndromic"	4		3
+BCAS1	breast carcinoma amplified sequence 1	20	Rare Single Gene Mutation	4		2
+BICDL1	BICD family like cargo adaptor 1	12	Genetic Association	4		2
+BIRC6	Baculoviral IAP repeat containing 6	2	Rare Single Gene Mutation	4		8
+BRCA2	"breast cancer 2, early onset"	13	Rare Single Gene Mutation	4		4
+BRD4	bromodomain containing 4	19	"Rare Single Gene Mutation, Syndromic"	4		4
+BST1	bone marrow stromal cell antigen 1	4	"Genetic Association, Functional"	4		5
+C15orf62	chromosome 15 open reading frame 62	15	Rare Single Gene Mutation	4		2
+C3orf58	chromosome 3 open reading frame 58	3	Rare Single Gene Mutation	4		3
+C4B	complement component 4B	6	"Rare Single Gene Mutation, Genetic Association, Functional"	4		6
+CA6	carbonic anhydrase VI	1	Rare Single Gene Mutation	4		6
+CACNA1B	calcium voltage-gated channel subunit alpha1 B	9	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		9
+CACNA1F	"calcium channel, voltage-dependent, alpha 1F"	X	"Rare Single Gene Mutation, Genetic Association"	4		7
+CACNA1G	"calcium channel, voltage-dependent, T type, alpha 1G subunit"	17	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		19
+CACNA1I	"Calcium channel, voltage-dependent, T type, alpha 1I subunit"	22	"Rare Single Gene Mutation, Genetic Association"	4		6
+CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1	7	Rare Single Gene Mutation	4		3
+CADM1	cell adhesion molecule 1	11	Rare Single Gene Mutation	4		9
+CADM2	Cell adhesion molecule 2	3	Genetic Association	4		3
+CADPS	calcium dependent secretion activator	3	Genetic Association	4		2
+CADPS2	Ca2+-dependent activator protein for secretion 2	7	"Rare Single Gene Mutation, Functional"	4		12
+CAMK2A	calcium/calmodulin dependent protein kinase II alpha	5	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	4	S	7
+CAMK4	Calcium/calmodulin-dependent protein kinase IV	5	Genetic Association	4		1
+CAPN12	Calpain 12	19	Rare Single Gene Mutation	4		5
+CARD11	caspase recruitment domain family member 11	7	Rare Single Gene Mutation	4		1
+CASC4	cancer susceptibility candidate 4	15	Rare Single Gene Mutation	4		4
+CASK	calcium/calmodulin dependent serine protein kinase	X	"Rare Single Gene Mutation, Syndromic"	4		12
+CCDC88C	Coiled-coil domain containing 88C	14	Rare Single Gene Mutation	4		6
+CCDC91	coiled-coil domain containing 91	12	Rare Single Gene Mutation	4		3
+CD276	CD276molecule	15	Rare Single Gene Mutation	4		1
+CD38	CD38 molecule	4	"Rare Single Gene Mutation, Genetic Association, Functional"	4		8
+CD99L2	CD99 molecule like 2	X	Genetic Association	4		1
+CDH10	"cadherin 10, type 2 (T2-cadherin)"	5	"Rare Single Gene Mutation, Genetic Association"	4		9
+CDH11	cadherin 11	16	Rare Single Gene Mutation	4		4
+CDH22	cadherin-like 22	20	Genetic Association	4		4
+CDH8	"cadherin 8, type 2"	16	Rare Single Gene Mutation	4		9
+CDH9	"cadherin 9, type 2 (T1-cadherin)"	5	"Rare Single Gene Mutation, Genetic Association"	4		7
+CECR2	"CECR2, histone acetyl-lysine reader"	22	Rare Single Gene Mutation	4		2
+CELF6	"CUGBP, Elav-like family member 6"	15	"Rare Single Gene Mutation, Genetic Association"	4		2
+CEP290	Centrosomal protein 290kDa	12	"Rare Single Gene Mutation, Syndromic"	4	S	7
+CHD1	chromodomain helicase DNA binding protein 1	5	Rare Single Gene Mutation	4	S	4
+CHD3	chromodomain helicase DNA binding protein 3	17	"Rare Single Gene Mutation, Syndromic"	4	S	4
+CHRM3	cholinergic receptor muscarinic 3	1	"Rare Single Gene Mutation, Genetic Association"	4		6
+CHRNB3	cholinergic receptor nicotinic beta 3 subunit	8	Rare Single Gene Mutation	4		1
+CLN8	"Ceroid-lipofuscinosis, neuronal 8 (epilepsy, progressive with mental retardation)"	8	"Rare Single Gene Mutation, Syndromic"	4		3
+CLTCL1	"clathrin, heavy chain-like 1"	22	Rare Single Gene Mutation	4		5
+CMIP	c-Maf inducing protein	16	"Rare Single Gene Mutation, Genetic Association"	4		6
+CNGB3	cyclic nucleotide gated channel beta 3	8	Rare Single Gene Mutation	4		2
+CNTN3	contactin 3	3	Rare Single Gene Mutation	4		5
+CNTNAP3	contactin associated protein-like 3	9	"Rare Single Gene Mutation, Functional"	4		4
+CNTNAP5	contactin associated protein-like 5	2	"Rare Single Gene Mutation, Genetic Association"	4		11
+COL28A1	collagen type XXVIII alpha 1 chain	7	Rare Single Gene Mutation	4		2
+CPT2	carnitine palmitoyltransferase 2	1	Rare Single Gene Mutation	4		2
+CSMD1	CUB and Sushi multiple domains 1	8	"Rare Single Gene Mutation, Genetic Association"	4		13
+CSNK1E	casein kinase 1 epsilon	22	"Rare Single Gene Mutation, Functional"	4		5
+CTNNA3	"catenin (cadherin-associated protein), alpha 3"	10	"Rare Single Gene Mutation, Genetic Association"	4		14
+CUX2	cut like homeobox 2	12	"Rare Single Gene Mutation, Syndromic"	4	S	7
+CX3CR1	Chemokine (C-X3-C motif) receptor 1	3	"Rare Single Gene Mutation, Functional"	4		3
+CYLC2	"cylicin, basic protein of sperm head cytoskeleton 2"	9	Rare Single Gene Mutation	4		3
+CYP11B1	"cytochrome P450, family 11, subfamily B, polypeptide 1"	8	Syndromic	4		4
+DAGLA	diacylglycerol lipase alpha	11	"Rare Single Gene Mutation, Functional"	4		4
+DDC	dopa decarboxylase	7	Genetic Association	4		2
+DDX53	DEAD (Asp-Glu-Ala-Asp) box polypeptide 53	X	Rare Single Gene Mutation	4		3
+DIXDC1	DIX domain containing 1	11	"Rare Single Gene Mutation, Functional"	4		4
+DLG1	discs large MAGUK scaffold protein 1	3	Rare Single Gene Mutation	4		3
+DLGAP2	"discs, large (Drosophila) homolog-associated protein 2"	8	Rare Single Gene Mutation	4		12
+DLGAP3	DLG associated protein 3	1	"Rare Single Gene Mutation, Genetic Association, Functional"	4		10
+DLX2	distal-less homeobox 2	2	Genetic Association	4		11
+DLX6	distal-less homeobox 6	7	Rare Single Gene Mutation	4		9
+DMXL2	Dmx-like 2	15	Rare Single Gene Mutation	4		6
+DNAH10	"Dynein, axonemal, heavy chain 10"	12	Rare Single Gene Mutation	4		5
+DNAH17	dynein axonemal heavy chain 17	17	Rare Single Gene Mutation	4		4
+DNAH3	dynein axonemal heavy chain 3	16	Rare Single Gene Mutation	4		3
+DNER	Delta/notch-like EGF repeat containing	2	"Rare Single Gene Mutation, Genetic Association"	4		2
+DOCK1	Dedicator of cytokinesis 1	10	Rare Single Gene Mutation	4		2
+DOCK4	Dedicator of cytokinesis 4	7	"Rare Single Gene Mutation, Genetic Association"	4		8
+DPP4	Dipeptidyl-peptidase 4	2	"Rare Single Gene Mutation, Genetic Association"	4		6
+DPP6	dipeptidyl-peptidase 6	7	"Rare Single Gene Mutation, Genetic Association, Functional"	4		23
+DPYD	dihydropyrimidine dehydrogenase	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		12
+DPYSL3	dihydropyrimidinase like 3	5	Rare Single Gene Mutation	4		2
+DRD1	Dopamine receptor D1	5	"Genetic Association, Functional"	4		4
+DRD2	Dopamine receptor D2	11	"Rare Single Gene Mutation, Genetic Association"	4		6
+DRD3	dopamine receptor D3	3	"Rare Single Gene Mutation, Genetic Association"	4		8
+DST	Dystonin	6	Rare Single Gene Mutation	4		6
+DUSP15	dual specificity phosphatase 15	20	"Rare Single Gene Mutation, Genetic Association"	4		3
+DVL3	Dishevelled segment polarity protein 3	3	"Rare Single Gene Mutation, Functional"	4		3
+DYDC1	DPY30 domain containing 1	10		4		1
+DYDC2	DPY30 domain containing 2	10		4		1
+EIF3G	eukaryotic translation initiation factor 3 subunit G	19	Rare Single Gene Mutation	4		3
+EIF4E	eukaryotic translation initiation factor 4E	4	"Rare Single Gene Mutation, Genetic Association"	4		12
+ELAVL2	ELAV like neuron-specific RNA binding protein 2	9	"Rare Single Gene Mutation, Genetic Association, Functional"	4		5
+ELOVL2	ELOVL fatty acid elongase 2	6	Genetic Association	4		1
+EN2	engrailed homolog 2	7	"Rare Single Gene Mutation, Genetic Association, Functional"	4		23
+EP300	E1A binding protein p300	22	"Rare Single Gene Mutation, Syndromic"	4	S	16
+EPC2	Enhancer of polycomb homolog 2 (Drosophila)	2	Rare Single Gene Mutation	4		4
+EPHB2	EPH receptor B2	1	Rare Single Gene Mutation	4		4
+EPPK1	epiplakin 1	8	Rare Single Gene Mutation	4		3
+ERG	"ERG, ETS transcription factor"	21	Genetic Association	4		1
+ERMN	ermin	2	Rare Single Gene Mutation	4		1
+ESR2	estrogen receptor 2 (ER beta)	14	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		8
+ESRRB	estrogen-related receptor beta	14	"Rare Single Gene Mutation, Genetic Association"	4		7
+EXOC3	exocyst complex component 3	5	Rare Single Gene Mutation	4		1
+EXOC5	exocyst complex component 5	14	Rare Single Gene Mutation	4		2
+EXOC6	exocyst complex component 6	10	Rare Single Gene Mutation	4		1
+EXOC6B	exocyst complex component 6B	2	Rare Single Gene Mutation	4		3
+EXT1	Exostosin 1	8	"Rare Single Gene Mutation, Genetic Association"	4		6
+FABP5	fatty acid binding protein 5 (psoriasis-associated)	8	"Rare Single Gene Mutation, Functional"	4		6
+FAM47A	family with sequence similarity 47 member A	X	Rare Single Gene Mutation	4		1
+FAN1	FANCD2/FANCI-associated nuclease 1	15	Rare Single Gene Mutation	4		1
+FAT1	FAT atypical cadherin 1	4	Rare Single Gene Mutation	4		4
+FBXO11	F-box protein 11	2	"Rare Single Gene Mutation, Syndromic"	4	S	5
+FBXO33	F-box protein 33	14	Genetic Association	4		3
+FBXO40	F-box protein 40	3	"Rare Single Gene Mutation, Genetic Association"	4		4
+FCRL6	Fc receptor like 6	1	Rare Single Gene Mutation	4		4
+FEZF2	FEZ family zinc finger 2	3	"Rare Single Gene Mutation, Genetic Association"	4		8
+FGA	Fibrinogen alpha chain	4	Genetic Association	4		1
+FHIT	fragile histidine triad gene	3	"Rare Single Gene Mutation, Genetic Association"	4		12
+FRK	fyn-related kinase	6	"Rare Single Gene Mutation, Genetic Association"	4		3
+GABBR2	gamma-aminobutyric acid type B receptor subunit 2	9	"Rare Single Gene Mutation, Syndromic, Functional"	4	S	10
+GABRA4	"gamma-aminobutyric acid (GABA) A receptor, alpha 4"	4	"Rare Single Gene Mutation, Genetic Association"	4		6
+GALNT13	polypeptide N-acetylgalactosaminyltransferase 13	2	Rare Single Gene Mutation	4		4
+GALNT14	polypeptide N-acetylgalactosaminyltransferase 14	2	"Rare Single Gene Mutation, Genetic Association"	4		4
+GAS2	Growth arrest-specific 2	11	Genetic Association	4		1
+GDA	guanine deaminase	9	"Rare Single Gene Mutation, Genetic Association"	4		2
+GLIS1	GLIS family zinc finger 1	1	"Rare Single Gene Mutation, Genetic Association"	4		2
+GLO1	glyoxalase I	6	Genetic Association	4		9
+GLRA2	"glycine receptor, alpha 2"	X	"Rare Single Gene Mutation, Functional"	4		14
+GNAS	GNAS complex locus	20	Rare Single Gene Mutation	4		8
+GNB1L	"guanine nucleotide binding protein (G protein), beta polypeptide 1-like"	22	"Rare Single Gene Mutation, Genetic Association"	4		2
+GPC6	glypican 6	13	"Rare Single Gene Mutation, Genetic Association"	4		8
+GPD2	glycerol-3-phosphate dehydrogenase 2	2	"Rare Single Gene Mutation, Genetic Association"	4		4
+GPR37	G protein-coupled receptor 37	7	Rare Single Gene Mutation	4		2
+GPR85	G protein-coupled receptor 85	7	"Rare Single Gene Mutation, Genetic Association"	4		4
+GPX1	glutathione peroxidase 1	3	Genetic Association	4		5
+GRID2	"glutamate receptor, ionotropic, delta 2"	4	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		9
+GRID2IP	Grid2 interacting protein	7	Rare Single Gene Mutation	4		3
+GRIK3	glutamate ionotropic receptor kainate type subunit 3	1	"Rare Single Gene Mutation, Genetic Association"	4		5
+GRIK4	"Glutamate receptor, ionotropic, kainate 4"	11	"Rare Single Gene Mutation, Functional"	4		3
+GRM5	"Glutamate receptor, metabotropic 5"	11	"Rare Single Gene Mutation, Genetic Association, Functional"	4		6
+GRM7	"Glutamate receptor, metabotropic 7"	3	"Rare Single Gene Mutation, Genetic Association"	4		13
+GSTM1	glutathione S-transferase M1	1	Genetic Association	4		3
+GTF2I	general transcription factor IIi	7	"Rare Single Gene Mutation, Genetic Association"	4		5
+GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2	11	"Rare Single Gene Mutation, Genetic Association"	4		2
+HDLBP	high density lipoprotein binding protein	2	Rare Single Gene Mutation	4		4
+HLA-A	"major histocompatibility complex, class I, A"	6	Genetic Association	4		10
+HLA-B	"Major histocompatibility complex, class I, B"	6	Genetic Association	4		5
+HLA-DRB1	"major histocompatibility complex, class II, DR beta 1"	6	Genetic Association	4		11
+HLA-G	"major histocompatibility complex, class I, G"	6	Genetic Association	4		4
+HNRNPH2	heterogeneous nuclear ribonucleoprotein H2	X	Rare Single Gene Mutation	4		5
+HNRNPU	heterogeneous nuclear ribonucleoprotein U	1	"Rare Single Gene Mutation, Syndromic, Functional"	4	S	12
+HOMER1	Homer homolog 1 (Drosophila)	5	"Rare Single Gene Mutation, Functional"	4		5
+HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	11	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		11
+HS3ST5	heparan sulfate (glucosamine) 3-O-sulfotransferase 5	6	Genetic Association	4		7
+HSD11B1	hydroxysteroid (11-beta) dehydrogenase 1	1	Syndromic	4		8
+HTR1B	5-hydroxytryptamine (serotonin) receptor 1B	6	"Rare Single Gene Mutation, Genetic Association"	4		6
+HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	11	"Rare Single Gene Mutation, Genetic Association, Functional"	4		7
+HTR3C	"5-hydroxytryptamine (serotonin) receptor 3, family member C"	3	"Rare Single Gene Mutation, Genetic Association"	4		5
+HYDIN	"HYDIN, axonemal central pair apparatus protein"	16	"Rare Single Gene Mutation, Genetic Association"	4		3
+IL1R2	"interleukin 1 receptor, type II"	2	Rare Single Gene Mutation	4		6
+IL1RAPL1	interleukin 1 receptor accessory protein-like 1	X	Rare Single Gene Mutation	4		22
+IL1RAPL2	interleukin 1 receptor accessory protein-like 2	X	"Rare Single Gene Mutation, Genetic Association"	4		2
+IMMP2L	IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae)	7	"Rare Single Gene Mutation, Genetic Association"	4		13
+INPP1	inositol polyphosphate-1-phosphatase	2	"Rare Single Gene Mutation, Genetic Association"	4		4
+IQGAP3	IQ motif containing GTPase activating protein 3	1	Rare Single Gene Mutation	4		3
+IQSEC2	IQ motif and Sec7 domain 2	X	"Rare Single Gene Mutation, Syndromic, Functional"	4	S	22
+ITPR1	"inositol 1,4,5-trisphosphate receptor type 1"	3	Rare Single Gene Mutation	4		9
+JMJD1C	jumonji domain containing 1C	10	Rare Single Gene Mutation	4		8
+KANK1	KN motif and ankyrin repeat domains 1	9	Rare Single Gene Mutation	4		8
+KATNAL1	katanin catalytic subunit A1 like 1	13	"Rare Single Gene Mutation, Functional"	4		2
+KCNC1	potassium voltage-gated channel subfamily C member 1	11	Rare Single Gene Mutation	4		4
+KCND2	potassium voltage-gated channel subfamily D member 2	7	"Rare Single Gene Mutation, Genetic Association"	4		6
+KCND3	potassium voltage-gated channel subfamily D member 3	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		8
+KCNJ15	potassium voltage-gated channel subfamily J member 15	21	Rare Single Gene Mutation	4		2
+KCNK7	potassium two pore domain channel subfamily K member 7	11	Rare Single Gene Mutation	4		1
+KCNMA1	"potassium large conductance calcium-activated channel, subfamily M, alpha member 1"	10	Rare Single Gene Mutation	4		18
+KCTD13	Potassium channel tetramerisation domain containing 13	16	Rare Single Gene Mutation	4		6
+KDM4B	lysine demethylase 4B	19	"Rare Single Gene Mutation, Functional"	4		3
+KHDRBS2	"KH domain containing, RNA binding, signal transduction associated 2"	6	Rare Single Gene Mutation	4		2
+KIF13B	Kinesin family member 13B	8	Rare Single Gene Mutation	4		3
+KIF5C	Kinesin family member 5C	2	"Rare Single Gene Mutation, Syndromic"	4	S	7
+KLF16	Kruppel like factor 16	19	Rare Single Gene Mutation	4		1
+KRR1	"KRR1, small subunit (SSU) processome component, homolog (yeast)"	12	Genetic Association	4		1
+KRT26	keratin 26	17	Rare Single Gene Mutation	4		2
+LAMA1	"Laminin, alpha 1"	18	"Rare Single Gene Mutation, Genetic Association"	4		5
+LEP	Leptin	7	Rare Single Gene Mutation	4		1
+LILRB2	leukocyte immunoglobulin like receptor B2	19	Rare Single Gene Mutation	4		2
+LIN7B	"lin-7 homolog B, crumbs cell polarity complex component"	19		4		1
+LRBA	"LPS-responsive vesicle trafficking, beach and anchor containing"	4	Rare Single Gene Mutation	4		5
+LRFN2	leucine rich repeat and fibronectin type III domain containing 2	6	"Rare Single Gene Mutation, Genetic Association, Functional"	4		4
+LRFN5	leucine rich repeat and fibronectin type III domain containing 5	14	"Rare Single Gene Mutation, Genetic Association"	4		6
+LRP2	LDL receptor related protein 2	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		11
+LRRC1	leucine rich repeat containing 1	6	Genetic Association	4		5
+LRRC4	leucine rich repeat containing 4	7	"Rare Single Gene Mutation, Functional"	4		3
+LZTS2	"leucine zipper, putative tumor suppressor 2"	10	Genetic Association	4		4
+MAOA	monoamine oxidase A	X	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	4		15
+MAOB	monoamine oxidase B	X	"Rare Single Gene Mutation, Genetic Association, Functional"	4		5
+MAPK3	mitogen-activated protein kinase 3	16	"Rare Single Gene Mutation, Functional"	4		4
+MARK1	microtubule affinity regulating kinase 1	1	"Rare Single Gene Mutation, Genetic Association"	4		10
+MBD1	methyl-CpG binding domain protein 1	18	Rare Single Gene Mutation	4		7
+MBD3	methyl-CpG binding domain protein 3	19	Rare Single Gene Mutation	4		4
+MBD4	methyl-CpG binding domain protein 4	3	Rare Single Gene Mutation	4		6
+MBD6	Methyl-CpG binding domain protein 6	12	Rare Single Gene Mutation	4		1
+MCM4	minichromosome maintenance complex component 4	8	Rare Single Gene Mutation	4		2
+MCM6	minichromosome maintenance complex component 6	2	Rare Single Gene Mutation	4		2
+MCPH1	microcephalin 1	8	Rare Single Gene Mutation	4		15
+MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2	14	"Rare Single Gene Mutation, Genetic Association"	4		7
+MEF2C	myocyte enhancer factor 2C	5	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	4	S	33
+MEGF10	multiple EGF like domains 10	5	"Rare Single Gene Mutation, Genetic Association"	4		5
+MEGF11	multiple EGF like domains 11	15	Rare Single Gene Mutation	4		4
+MIB1	Mindbomb E3 ubiquitin protein ligase 1	18	Rare Single Gene Mutation	4		5
+MKL2	MKL/myocardin-like 2	16	"Rare Single Gene Mutation, Genetic Association"	4		10
+MNT	MAX network transcriptional repressor	17	Genetic Association	4		1
+MPP6	membrane palmitoylated protein 6	7	Rare Single Gene Mutation	4		3
+MSANTD2	Myb/SANT DNA binding domain containing 2	11	Rare Single Gene Mutation	4		1
+MSR1	macrophage scavenger receptor 1	8	Rare Single Gene Mutation	4		3
+MTF1	metal-regulatory transcription factor 1	1	"Syndromic, Genetic Association"	4		4
+MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		16
+MUC12	"mucin 12, cell surface associated"	7	Rare Single Gene Mutation	4		2
+MUC4	"mucin 4, cell surface associated"	3	Rare Single Gene Mutation	4		5
+MYH4	"Myosin, heavy chain 4, skeletal muscle"	17	Rare Single Gene Mutation	4		3
+MYO16	myosin XVI	13	"Rare Single Gene Mutation, Genetic Association"	4		7
+MYO1E	myosin IE	15	Rare Single Gene Mutation	4		3
+MYO5C	myosin VC	15	Rare Single Gene Mutation	4		2
+NAALADL2	N-acetylated alpha-linked acidic dipeptidase-like 2	3	Genetic Association	4		1
+NACC1	nucleus accumbens associated 1	19	"Rare Single Gene Mutation, Syndromic"	4	S	4
+NBEA	neurobeachin	13	"Rare Single Gene Mutation, Syndromic, Functional"	4	S	17
+NCKAP5	NCK-associated protein 5	2	Rare Single Gene Mutation	4		1
+NDUFA5	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa"	7	Genetic Association	4		3
+NEGR1	neuronal growth regulator 1	1	"Rare Single Gene Mutation, Genetic Association, Functional"	4		6
+NEO1	Neogenin 1	15		4		1
+NFIA	nuclear factor I/A	1	Rare Single Gene Mutation	4		10
+NFIB	nuclear factor I B	9	"Rare Single Gene Mutation, Syndromic"	4	S	4
+NIPA1	non imprinted in Prader-Willi/Angelman syndrome 1	15	Rare Single Gene Mutation	4		5
+NIPA2	non imprinted in Prader-Willi/Angelman syndrome 2	15	Rare Single Gene Mutation	4		2
+NLGN2	Neuroligin 2	17	"Rare Single Gene Mutation, Functional"	4		8
+NLGN4Y	"neuroligin 4, Y-linked"	Y	Genetic Association	4		3
+NOTCH2NL	notch 2 N-terminal like	1	Functional	4		1
+NPAS2	neuronal PAS domain protein 2	2	Genetic Association	4		4
+NR1D1	nuclear receptor subfamily 1 group D member 1	17	Rare Single Gene Mutation	4		3
+NR2F1	nuclear receptor subfamily 2 group F member 1	5	"Rare Single Gene Mutation, Syndromic"	4	S	11
+NR4A2	nuclear receptor subfamily 4 group A member 2	2	Rare Single Gene Mutation	4		6
+NRCAM	neuronal cell adhesion molecule	7	"Rare Single Gene Mutation, Genetic Association"	4		5
+NRP2	neuropilin 2	2	"Rare Single Gene Mutation, Genetic Association"	4		8
+NRXN2	neurexin 2	11	"Rare Single Gene Mutation, Genetic Association"	4		10
+NSMCE3	"NSE3 homolog, SMC5-SMC6 complex component"	15	Functional	4		3
+NTNG1	netrin G1	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4	S	8
+NTRK1	"neurotrophic tyrosine kinase, receptor, type 1"	1	"Rare Single Gene Mutation, Syndromic"	4		8
+NTRK3	"neurotrophic tyrosine kinase, receptor, type 3"	15	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4		13
+NUP133	nucleoporin 133kDa	1	Rare Single Gene Mutation	4		4
+NXPH1	neurexophilin 1	7	Rare Single Gene Mutation	4		5
+ODF3L2	outer dense fiber of sperm tails 3-like 2	19	Rare Single Gene Mutation	4		1
+OFD1	"OFD1, centriole and centriolar satellite protein"	X	Rare Single Gene Mutation	4		2
+OR1C1	"olfactory receptor, family 1, subfamily C, member 1"	1	Rare Single Gene Mutation	4		2
+OR2M4	"Olfactory receptor, family 2, subfamily M, member 4"	1	Genetic Association	4		1
+OR2T10	olfactory receptor family 2 subfamily T member 10	1	Rare Single Gene Mutation	4		3
+OTX1	Orthodenticle homeobox 1	2	Genetic Association	4		3
+OXT	oxytocin/neurophysin I prepropeptide	20	Genetic Association	4		4
+PAPOLG	poly(A) polymerase gamma	2	Rare Single Gene Mutation	4		3
+PATJ	"PATJ, crumbs cell polarity complex component"	1	Rare Single Gene Mutation	4		2
+PBX1	PBX homeobox 1	1	Rare Single Gene Mutation	4		4
+PCDH10	protocadherin 10	4	Rare Single Gene Mutation	4		8
+PCDH11X	protocadherin 11 X-linked	X	Rare Single Gene Mutation	4		2
+PCDH15	protocadherin related 15	10	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDH9	protocadherin 9	13	"Rare Single Gene Mutation, Genetic Association"	4		7
+PCDHA1	Protocadherin alpha 1	5	"Rare Single Gene Mutation, Genetic Association"	4		3
+PCDHA10	Protocadherin alpha 10	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA11	Protocadherin alpha 11	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA12	Protocadherin alpha 12	5	"Rare Single Gene Mutation, Genetic Association"	4		3
+PCDHA13	Protocadherin alpha 13	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA2	Protocadherin alpha 2	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA3	Protocadherin alpha 3	5	"Rare Single Gene Mutation, Genetic Association"	4		3
+PCDHA4	Protocadherin alpha 4	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA5	Protocadherin alpha 5	5	"Rare Single Gene Mutation, Genetic Association"	4		5
+PCDHA6	Protocadherin alpha 6	5	"Rare Single Gene Mutation, Genetic Association"	4		3
+PCDHA7	Protocadherin alpha 7	5	"Rare Single Gene Mutation, Genetic Association"	4		3
+PCDHA8	Protocadherin alpha 8	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHA9	Protocadherin alpha 9	5	"Rare Single Gene Mutation, Genetic Association"	4		4
+PCDHAC1	"Protocadherin alpha subfamily C, 1"	5	Genetic Association	4		2
+PCDHAC2	"Protocadherin alpha subfamily C, 2"	5	Genetic Association	4		3
+PDCD1	programmed cell death 1	2	Rare Single Gene Mutation	4		3
+PDE1C	phosphodiesterase 1C	7	"Rare Single Gene Mutation, Genetic Association"	4		3
+PDK2	pyruvate dehydrogenase kinase 2	17	Rare Single Gene Mutation	4		4
+PER1	period homolog 1 (Drosophila)	17	"Rare Single Gene Mutation, Genetic Association"	4		6
+PEX7	peroxisomal biogenesis factor 7	6	"Rare Single Gene Mutation, Genetic Association"	4		3
+PHF21A	PHD finger protein 21A	11	"Rare Single Gene Mutation, Syndromic"	4	S	6
+PIK3CG	"phosphoinositide-3-kinase, catalytic, gamma polypeptide"	7	Genetic Association	4		4
+PITX1	paired-like homeodomain 1	5	"Rare Single Gene Mutation, Genetic Association"	4		6
+PLAUR	"Plasminogen activator, urokinase receptor"	19	Genetic Association	4		1
+PLN	phospholamban	6	Rare Single Gene Mutation	4		4
+PLXNA3	plexin A3	X	Rare Single Gene Mutation	4		2
+PNPLA7	patatin like phospholipase domain containing 7	9	Rare Single Gene Mutation	4		3
+POLA2	"DNA polymerase alpha 2, accessory subunit"	11	Rare Single Gene Mutation	4		2
+POMT1	protein O-mannosyltransferase 1	9	Rare Single Gene Mutation	4		2
+POT1	Protection of telomeres 1 homolog (S. pombe)	7	Rare Single Gene Mutation	4		1
+PPFIA1	PTPRF interacting protein alpha 1	11	Rare Single Gene Mutation	4		3
+PPM1D	"protein phosphatase, Mg2+/Mn2+ dependent 1D"	17	"Rare Single Gene Mutation, Syndromic"	4	S	6
+PPP1R1B	"Protein phosphatase 1, regulatory (inhibitor) subunit 1B"	17	Genetic Association	4		1
+PPP2R1B	"protein phosphatase 2 regulatory subunit A, beta"	11	Rare Single Gene Mutation	4		5
+PPP2R5D	"Protein phosphatase 2, regulatory subunit B', delta"	6	"Rare Single Gene Mutation, Syndromic"	4	S	13
+PRKCA	protein kinase C alpha	17	Rare Single Gene Mutation	4		4
+PRKDC	"protein kinase, DNA-activated, catalytic polypeptide"	8	"Rare Single Gene Mutation, Syndromic, Functional"	4		5
+PRPF39	pre-mRNA processing factor 39	14	Rare Single Gene Mutation	4		3
+PRUNE2	prune homolog 2	9	"Rare Single Gene Mutation, Syndromic"	4		6
+PSD3	pleckstrin and Sec7 domain containing 3	8	"Rare Single Gene Mutation, Genetic Association"	4		5
+PTBP2	polypyrimidine tract binding protein 2	1	"Rare Single Gene Mutation, Genetic Association"	4		4
+PTGS2	prostaglandin-endoperoxide synthase 2	1	"Genetic Association, Functional"	4		6
+PTPN11	"protein tyrosine phosphatase, non-receptor type 11"	12	"Rare Single Gene Mutation, Syndromic"	4	S	14
+PTPRB	"protein tyrosine phosphatase, receptor type B"	12	"Rare Single Gene Mutation, Genetic Association"	4		3
+PTPRC	"protein tyrosine phosphatase, receptor type, C"	1	"Rare Single Gene Mutation, Genetic Association"	4		8
+PTPRT	"protein tyrosine phosphatase, receptor type, T"	20	"Rare Single Gene Mutation, Functional"	4		9
+PXDN	peroxidasin	2	Rare Single Gene Mutation	4		4
+QRICH1	glutamine rich 1	3	Rare Single Gene Mutation	4		3
+RAB11FIP5	RAB11 family interacting protein 5	2	Rare Single Gene Mutation	4		4
+RAB39B	"RAB39B, member RAS oncogene family"	X	Rare Single Gene Mutation	4		10
+RAD21L1	RAD21 cohesin complex component like 1	20	Rare Single Gene Mutation	4		2
+RAPGEF4	Rap guanine nucleotide exchange factor (GEF) 4	2	Rare Single Gene Mutation	4		16
+RASSF5	Ras association domain family member 5	1	"Rare Single Gene Mutation, Genetic Association"	4		2
+REEP3	receptor accessory protein 3	10	Rare Single Gene Mutation	4		3
+RERE	Arginine-glutamic acid dipeptide (RE) repeats	1	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4	S	6
+RFX3	regulatory factor X3	9	Rare Single Gene Mutation	4		5
+RGS7	regulator of G-protein signaling 7	1	Rare Single Gene Mutation	4		6
+RHOXF1	"Rhox homeobox family, member 1"	X	Genetic Association	4		3
+RIMS3	regulating synaptic membrane exocytosis 3	1	Rare Single Gene Mutation	4		4
+RIT2	Ras-like without CAAX 2	18	Genetic Association	4		3
+RNF135	Ring finger protein 135	17	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4	S	3
+RNF38	ring finger protein 38	9	Rare Single Gene Mutation	4		2
+RP11-1407O15.2		17	Rare Single Gene Mutation	4		1
+RPL10	ribosomal protein L10	X	"Rare Single Gene Mutation, Syndromic"	4		13
+RPS6KA2	"ribosomal protein S6 kinase, 90kDa, polypeptide 2"	6	Rare Single Gene Mutation	4		4
+RPS6KA3	"Ribosomal protein S6 kinase, 90kDa, polypeptide 3"	X	"Rare Single Gene Mutation, Syndromic"	4	S	9
+SAMD11	sterile alpha motif domain containing 11	1	Rare Single Gene Mutation	4		2
+SASH1	SAM and SH3 domain containing 1	6	Rare Single Gene Mutation	4		2
+SATB2	SATB homeobox 2	2	"Rare Single Gene Mutation, Syndromic, Genetic Association"	4	S	26
+SCFD2	sec1 family domain containing 2	4	Rare Single Gene Mutation	4		2
+SCN4A	"Sodium channel, voltage gated, type IV alpha subunit"	17	Rare Single Gene Mutation	4		4
+SCP2	sterol carrier protein 2	1	Rare Single Gene Mutation	4		2
+SDC2	"syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan )"	8	"Rare Single Gene Mutation, Genetic Association"	4		4
+SERPINE1	serpin family E member 1	7	Genetic Association	4		2
+SETD1B	SET domain containing 1B	12	"Rare Single Gene Mutation, Syndromic"	4	S	6
+SETDB1	"SET domain, bifurcated 1"	1	Rare Single Gene Mutation	4		3
+SETDB2	"SET domain, bifurcated 2"	13	"Rare Single Gene Mutation, Syndromic"	4		2
+SEZ6L2	SEZ6L2 seizure related 6 homolog (mouse)-like 2	16	"Rare Single Gene Mutation, Genetic Association"	4		6
+SF3B1	splicing factor 3b subunit 1	2	Rare Single Gene Mutation	4		4
+SGSM3	Small G protein signaling modulator 3	22	Rare Single Gene Mutation	4		4
+SIN3A	SIN3 transcription regulator family member A	15	"Rare Single Gene Mutation, Syndromic"	4	S	7
+SLC1A1	"solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1"	9	"Rare Single Gene Mutation, Genetic Association"	4		11
+SLC22A15	"Solute carrier family 22, member 15"	1	Genetic Association	4		1
+SLC22A9	solute carrier family 22 member 9	11	Rare Single Gene Mutation	4		3
+SLC24A2	solute carrier family 24 member 2	9	Rare Single Gene Mutation	4		3
+SLC25A12	"solute carrier family 25 (mitochondrial carrier, Aralar), member 12"	2	"Rare Single Gene Mutation, Genetic Association, Functional"	4		20
+SLC25A27	solute carrier family 25 member 27	6	Genetic Association	4		1
+SLC25A39	solute carrier family 25 member 39	17	Rare Single Gene Mutation	4		3
+SLC27A4	"Solute carrier family 27 (fatty acid transporter), member 4"	9	Rare Single Gene Mutation	4		1
+SLC29A4	solute carrier family 29 member 4	7	Rare Single Gene Mutation	4		1
+SLC4A10	"solute carrier family 4, sodium bicarbonate transporter-like, member 10"	2	"Rare Single Gene Mutation, Genetic Association"	4		6
+SLC6A4	"solute carrier family 6 (neurotransmitter transporter, serotonin), member 4"	17	"Rare Single Gene Mutation, Genetic Association"	4		26
+SLC6A8	"solute carrier family 6 (neurotransmitter transporter, creatine), member 8"	X	"Rare Single Gene Mutation, Syndromic"	4		12
+SLC7A7	solute carrier family 7 member 7	14	Rare Single Gene Mutation	4		2
+SLC9A9	"solute carrier family 9 (sodium/hydrogen exchanger), member 9"	3	"Rare Single Gene Mutation, Genetic Association, Functional"	4		12
+SLCO1B3	"Solute carrier organic anion transporter family, member 1B3"	12	Rare Single Gene Mutation	4		2
+SMC3	structural maintenance of chromosomes 3	10	"Rare Single Gene Mutation, Syndromic"	4	S	8
+SMG6	"SMG6, nonsense mediated mRNA decay factor"	17	Rare Single Gene Mutation	4		2
+SNAP25	"Synaptosomal-associated protein, 25kDa"	20	"Rare Single Gene Mutation, Genetic Association"	4		6
+SND1	staphylococcal nuclease and tudor domain containing 1	7	"Rare Single Gene Mutation, Genetic Association"	4		8
+SNTG2	syntrophin gamma 2	2	Rare Single Gene Mutation	4		5
+SOD1	superoxide dismutase 1	21	"Genetic Association, Functional"	4		2
+SPP2	secreted phosphoprotein 2	2	Rare Single Gene Mutation	4		4
+SRGAP3	SLIT-ROBO Rho GTPase activating protein 3	3	Rare Single Gene Mutation	4		4
+SSPO	SCO-spondin	7	Rare Single Gene Mutation	4		3
+SSRP1	structure specific recognition protein 1	11	Rare Single Gene Mutation	4		2
+ST7	suppression of tumorigenicity 7	7	Rare Single Gene Mutation	4		4
+STK39	"serine threonine kinase 39 (STE20/SPS1 homolog, yeast)"	2	Genetic Association	4		5
+STX1A	Syntaxin 1A (brain)	7	"Rare Single Gene Mutation, Genetic Association"	4		6
+STYK1	Serine/threonine/tyrosine kinase 1	12	Genetic Association	4		1
+SYAP1	Synapse associated protein 1	X	Rare Single Gene Mutation	4		2
+SYN1	Synapsin 1	X	"Rare Single Gene Mutation, Functional"	4		18
+SYN2	Synapsin II	3	"Rare Single Gene Mutation, Genetic Association, Functional"	4		6
+SYNCRIP	synaptotagmin binding cytoplasmic RNA interacting protein	6	Rare Single Gene Mutation	4		6
+SYNE1	"spectrin repeat containing, nuclear envelope 1"	6	"Rare Single Gene Mutation, Genetic Association"	4	S	15
+SYNJ1	synaptojanin 1	21	Rare Single Gene Mutation	4		1
+SYT17	synaptotagmin XVII	16	Genetic Association	4		2
+TAF1C	"TATA-box binding protein associated factor, RNA polymerase I subunit C"	16	"Rare Single Gene Mutation, Genetic Association"	4		2
+TBC1D5	"TBC1 domain family, member 5"	3	"Rare Single Gene Mutation, Genetic Association"	4		7
+TBL1X	transducin (beta)-like 1X-linked	X	Genetic Association	4		1
+TBX1	T-box 1	22	"Syndromic, Functional"	4		5
+TDO2	"tryptophan 2,3-dioxygenase"	4	Genetic Association	4		4
+TECTA	tectorin alpha	11	Rare Single Gene Mutation	4		6
+TERB2	telomere repeat binding bouquet formation protein 2	15	Rare Single Gene Mutation	4		1
+THBS1	Thrombospondin 1	15	"Rare Single Gene Mutation, Genetic Association"	4		3
+THRA	thyroid hormone receptor alpha	17	"Rare Single Gene Mutation, Functional"	4		3
+TLK2	tousled-like kinase 2	17	"Rare Single Gene Mutation, Syndromic"	4	S	12
+TM4SF19	transmembrane 4 L six family member 19	3	Rare Single Gene Mutation	4		3
+TOP3B	Topoisomerase (DNA) III beta	22	"Rare Single Gene Mutation, Genetic Association, Functional"	4		6
+TPO	Thyroid peroxidase	2	Genetic Association	4		1
+TRAF7	TNF receptor associated factor 7	16	"Rare Single Gene Mutation, Syndromic"	4	S	3
+TRIM33	Tripartite motif containing 33	1	Genetic Association	4		1
+TRRAP	transformation/transcription domain associated protein	7	"Rare Single Gene Mutation, Syndromic"	4	S	8
+TSHZ3	teashirt zinc finger homeobox 3	19	"Rare Single Gene Mutation, Functional"	4		3
+TSPAN17	tetraspanin 17	5	Rare Single Gene Mutation	4		3
+TSPAN7	tetraspanin 7	X	Rare Single Gene Mutation	4		7
+TSPOAP1	TSPO associated protein 1	17	Rare Single Gene Mutation	4		5
+TTC25	tetratricopeptide repeat domain 25	17	Genetic Association	4		1
+TTN	titin	2	"Rare Single Gene Mutation, Syndromic"	4	S	18
+TUBGCP5	"tubulin, gamma complex associated protein 5"	15	Rare Single Gene Mutation	4		4
+UBE2H	"ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast)"	7	Genetic Association	4		2
+UNC13A	unc-13 homolog A	19	"Rare Single Gene Mutation, Syndromic"	4	S	5
+UNC80	"unc-80 homolog, NALCN activator"	2	Rare Single Gene Mutation	4		5
+USH2A	usherin	1	Rare Single Gene Mutation	4		3
+USP9Y	"ubiquitin specific peptidase 9, Y-linked"	Y	"Rare Single Gene Mutation, Genetic Association"	4		2
+VASH1	vasohibin 1	14	Genetic Association	4		4
+VDR	vitamin D receptor	12	"Genetic Association, Functional"	4		7
+VSIG4	V-set and immunoglobulin domain containing 4	X	Rare Single Gene Mutation	4		2
+WNK3	WNK lysine deficient protein kinase 3	X	Rare Single Gene Mutation	4		6
+WNT1	"Wingless-type MMTV integration site family, member 1"	12	Genetic Association	4		3
+XPO1	"Exportin 1 (CRM1 homolog, yeast)"	2	"Rare Single Gene Mutation, Genetic Association"	4		5
+YEATS2	YEATS domain containing 2	3	Genetic Association	4		1
+YTHDC2	YTH domain containing 2	5	"Rare Single Gene Mutation, Genetic Association"	4		5
+YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon	17	Rare Single Gene Mutation	4		5
+ZBTB16	Zinc finger and BTB domain containing 16	11	Genetic Association	4		1
+ZNF18	zinc finger protein 18	17	Rare Single Gene Mutation	4		1
+ZNF292	zinc finger protein 292	6	Rare Single Gene Mutation	4		4
+ZNF385B	Zinc finger protein 385B	2	Genetic Association	4		2
+ZNF462	Zinc finger protein 462	9	"Rare Single Gene Mutation, Syndromic"	4	S	8
+ZNF517	Zinc finger protein 517	8	Rare Single Gene Mutation	4		2
+ZNF548	zinc finger protein 548	19	Rare Single Gene Mutation	4		2
+ZNF559	Zinc finger protein 559	19	Rare Single Gene Mutation	4		3
+ZNF626	zinc finger protein 626	19	Rare Single Gene Mutation	4		2
+ZNF713	Zinc finger protein 713	7	Rare Single Gene Mutation	4		1
+ZNF774	Zinc finger protein 774	15	Rare Single Gene Mutation	4		2
+ZNF827	Zinc finger protein 827	4	Genetic Association	4		1
+ZWILCH	zwilchkinetochore protein	15	Rare Single Gene Mutation	4		3
